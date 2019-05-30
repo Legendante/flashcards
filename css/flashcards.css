@@ -1,0 +1,22 @@
+.row
+{
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+.btn.outline {
+	background: none;
+	padding: 12px 22px;
+}
+
+.progress {
+    position: relative;
+}
+
+.progress span 
+{
+    position: absolute;
+    display: block;
+    width: 100%;
+    color: black;
+ }
